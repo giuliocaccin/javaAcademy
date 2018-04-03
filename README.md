@@ -45,3 +45,7 @@ The following example is the base for the refactoring exercise.
 	final String expected = new String(Files.readAllBytes(Paths.get("src/main/resources/golden_master.txt")));
 	Assert.assertEquals(expected, actual);
 ```
+
+### Presentation
+
+The [presentation](https://github.com/giuliocaccin/javaAcademy/blob/pitch/PITCHME.md) is hosted on gitpitch at the following link: http://gitpitch.com/giuliocaccin/javaAcademy/pitch
