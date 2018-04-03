@@ -1,4 +1,12 @@
-# javaAcademy
+# Java Academy
+## CodeSmell & Refactoring
+
+**Authors**
+ - Francesco
+ - Arber
+ - [Giulio: @giuliocaccin](https://twitter.com/giuliocaccin)
+
+### Example
 
 The following example is the base for the refactoring exercise. 
 
